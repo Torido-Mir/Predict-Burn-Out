@@ -1,5 +1,5 @@
 # Predict-Burn-Out
-* I am interested in predicting the values for burn rate using either or both of the independent variables (features) 
+* I am interested in predicting the values for burn out using either or both of the independent variables (features) 
 * Features: 
   
 
@@ -22,7 +22,7 @@
 
 
   
-* Why does this matter ? 
+* Why does this matter: 
 
   
 
