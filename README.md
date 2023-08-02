@@ -13,11 +13,7 @@
 
 
 
-  * Target:
- 
-    
-        Burn Rate (BR): The value we need to predict for each employee telling the rate of burn out while working.
-        On a scale of 0 to 1,float datatype 
+  
 
 * Objectives:
 I am interested in predicting the values for burn rate using either or both of the independent variables (features) 
@@ -29,6 +25,12 @@ Specifically, burnout can lead to a range of costs for employers, including:
 + Employee Turnover: Employees experiencing burnout may leave the organization, resulting in recruitment and training costs for new hires.
 + Impact on Company Culture: Burnout can have a negative impact on the overall company culture and employee morale.
 
+* Target:
+ 
+    
+        Burn Rate (BR): The value we need to predict for each employee telling the rate of burn out while working.
+        On a scale of 0 to 1,float datatype
+  
 * Methodology:
 The data set comes with train.csv (for training) and test.csv (for testing). For methods 1 and 2 and their variants, I make 2 models. 
 
