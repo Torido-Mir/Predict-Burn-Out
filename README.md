@@ -1,11 +1,16 @@
 # Predict-Burn-Out
 * I am interested in predicting the values for burn rate using either or both of the independent variables (features) 
-
-        Resource Allocation (RA): The amount of resource allocated to the employee to work, ie. number of working hours. On a scale of 1 to         10, strictly integers. 
-        Mental Fatigue Score (MS): The level of fatigue mentally the employee is facing. On a scale of 1 to 10,  float datatype, where 0.0          means no fatigue and 10.0 means complete fatigue.
+* About the data set:
+        Features:  
+        Resource Allocation (RA): The amount of resource allocated to the employee to work, ie. number of working hours.
+        On a scale of 1 to 10, strictly integers.
+   
+        Mental Fatigue Score (MS): The level of fatigue mentally the employee is facing.
+        On a scale of 1 to 10,  float datatype, where 0.0 means no fatigue and 10.0 means complete fatigue.
+  
         Target: 
-        Burn Rate (BR): The value we need to predict for each employee telling the rate of burn out while working. On a scale of 0 to 
-        1,float datatype 
+        Burn Rate (BR): The value we need to predict for each employee telling the rate of burn out while working.
+        On a scale of 0 to 1,float datatype 
 
 * Objectives:
 I am interested in predicting the values for burn rate using either or both of the independent variables (features) 
