@@ -13,6 +13,15 @@
 
 
 
+* Target:
+ 
+    
+        Burn Rate (BR): The value we need to predict for each employee telling the rate of burn out while working.
+        On a scale of 0 to 1, float datatype
+
+
+
+  
 * Why does this matter ?
 
   
