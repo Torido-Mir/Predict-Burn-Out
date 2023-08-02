@@ -1,4 +1,4 @@
-# Predict-Burn-Out-With-Regression
+# Predict-Burn-Out
 * I am interested in predicting the values for burn out using either or both of the independent variables (features)
 * Access the data set here: https://www.kaggle.com/datasets/blurredmachine/are-your-employees-burning-out?select=test.csv 
 * Features: 
