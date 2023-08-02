@@ -22,7 +22,7 @@
 
 
   
-* Why does this matter ?
+* Why does this matter: 
 
   
 
@@ -36,10 +36,5 @@ Specifically, burnout can lead to a range of costs for employers, including:
   costs for new hires.
 + Impact on Company Culture: Burnout can have a negative impact on the overall company culture and employee morale.
 
-* Target:
- 
-    
-        Burn Rate (BR): The value we need to predict for each employee telling the rate of burn out while working.
-        On a scale of 0 to 1, float datatype
-  
+
 
