@@ -7,7 +7,7 @@
         On a scale of 1 to 10, strictly integers.
    
         Mental Fatigue Score (MS): The level of fatigue mentally the employee is facing.
-        On a scale of 1 to 10,  float datatype, where 0.0 means no fatigue and 10.0 means complete fatigue.
+        On a scale of 1 to 10, float datatype, where 0.0 means no fatigue and 10.0 means complete fatigue.
 
 
 
@@ -16,6 +16,7 @@
 * Why does this matter ?
 
   
+
 It helps employers prevent foreseeable burn out, boost overall productivity and efficiency, and consequently save money 
 for their companies.
 
@@ -30,6 +31,6 @@ Specifically, burnout can lead to a range of costs for employers, including:
  
     
         Burn Rate (BR): The value we need to predict for each employee telling the rate of burn out while working.
-        On a scale of 0 to 1,float datatype
+        On a scale of 0 to 1, float datatype
   
 
