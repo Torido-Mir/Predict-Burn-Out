@@ -2,7 +2,8 @@
 * I am interested in predicting the values for burn rate using either or both of the independent variables (features) 
 * About the data set:
   
-         
+
+        Features: 
         Resource Allocation (RA): The amount of resource allocated to the employee to work, ie. number of working hours.
         On a scale of 1 to 10, strictly integers.
    
